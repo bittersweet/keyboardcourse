@@ -599,3 +599,6 @@ header#navigation {
     content: "";
     display: table; }
 
+h3 {
+  margin-top: 2em;
+}
