@@ -599,6 +599,6 @@ header#navigation {
     content: "";
     display: table; }
 
-h3 {
+h2, h3 {
   margin-top: 2em;
 }
